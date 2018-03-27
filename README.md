@@ -1,6 +1,8 @@
 # Face extraction and crop from video
 Extract cropped face video segments from an input video using OpenCV and Python
 
+## This project is currently in progress
+
 ### Dependencies:
 1. OpenCV
 2. Python 3.5
